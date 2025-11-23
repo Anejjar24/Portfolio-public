@@ -1,6 +1,7 @@
 # Portfolio Website - Anejjar Ihssane
 
-<img src="https://github.com/Anejjar24/portfolio/blob/main/src/assets/portfolio-preview.png" alt="Portfolio Preview" />
+<img width="944" height="404" alt="Image" src="https://github.com/user-attachments/assets/80570c2d-a0bc-4889-b408-561f93b84333" />
+
 
 Welcome to the repository for my personal portfolio website! This project showcases my technical skills, projects, and expertise in full-stack development and software engineering. Visit the live site here:
 
