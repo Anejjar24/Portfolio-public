@@ -107,6 +107,6 @@ This portfolio is deployed on **Vercel** with automatic deployments from the `ma
 **Anejjar Ihssane**
 
 - 📧 Email: [anejjarihssane@example.com](mailto:anejjarihssane@example.com)
-- 💼 LinkedIn: [linkedin.com/in/anejjar-ihssane](https://www.linkedin.com/in/ihssane-anejjar-953016313/)https://linkedin.com/in/anejjar-ihssane)]
+- 💼 LinkedIn: [linkedin.com/in/anejjar-ihssane](https://www.linkedin.com/in/ihssane-anejjar-953016313/)
 - 🐱 GitHub: [@Anejjar24](https://github.com/Anejjar24)
 - 🌐 Portfolio: [anejjar-portfolio.vercel.app](https://anejjar-portfolio.vercel.app)
